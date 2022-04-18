@@ -157,6 +157,7 @@ customer_logos:
     - name: kavak
     - name: blockfi
     - name: linktree
+    - name: materialize
 
 
 get_started:
